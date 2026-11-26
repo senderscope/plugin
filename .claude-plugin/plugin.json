@@ -1,0 +1,26 @@
+{
+  "name": "senderscope",
+  "version": "1.0.0",
+  "description": "Reverse email lookup, email finder and email verifier for B2B in your AI assistant. Ask who owns this email and get the professional profile behind a work address: name, title, company and LinkedIn. Find a work email from a name and company domain or a LinkedIn profile, and run email verification on any address. Lookups use your Senderscope credits, one per result found.",
+  "author": {
+    "name": "Senderscope",
+    "url": "https://senderscope.app"
+  },
+  "homepage": "https://senderscope.app/mcp-api/",
+  "repository": "https://github.com/senderscope/plugin",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "claude",
+    "reverse email lookup",
+    "email finder",
+    "find work email",
+    "email verifier",
+    "email verification",
+    "email enrichment",
+    "sales",
+    "recruiting"
+  ],
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://senderscope.app/privacy/"
+}

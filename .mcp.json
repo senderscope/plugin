@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "senderscope": {
+      "type": "http",
+      "url": "https://senderscope.app/mcp"
+    }
+  }
+}

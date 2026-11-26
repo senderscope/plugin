@@ -1,0 +1,15 @@
+{
+  "name": "senderscope",
+  "owner": {
+    "name": "Senderscope",
+    "email": "hello@senderscope.app"
+  },
+  "description": "Reverse email lookup by Senderscope: email finder, email verifier and email enrichment for work emails in Claude.",
+  "plugins": [
+    {
+      "name": "senderscope",
+      "source": "./",
+      "description": "Reverse email lookup, email finder and email verifier: see who owns a work email, find a work email and verify addresses with your Senderscope account."
+    }
+  ]
+}
